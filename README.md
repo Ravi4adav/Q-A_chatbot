@@ -28,11 +28,9 @@
 ## Requirements
 - User must setup <**.env**> file in the directory where app.py file is present.
 
-- Create **GEMINI** model API key and paste inside <**.env**> file
+- Create **GEMINI** model API key and paste inside <**.env**> file as following typecase:
 
         GEMINI_KEY="YOUR API KEY"
 
-- Link to create API key
 
-        https://ai.google.dev/gemini-api/docs/api-key
 
