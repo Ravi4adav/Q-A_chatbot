@@ -2,4 +2,8 @@ python-dotenv
 google-generativeai
 llama-index
 llama-index-llms-gemini
+llama-index-embeddings-gemini
 ipykernel
+streamlit
+
+-e .
